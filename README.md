@@ -1,6 +1,5 @@
 # YouTubeDownloader
- Simple Terminal-based YouTube Converter & Downloader with Python
- Idea inspired by my mate [@wrxngdev](https://github.com/wrxngdev)
+ Simple Terminal-based YouTube Converter & Downloader with Python. Idea inspired by my mate [@wrxngdev](https://github.com/wrxngdev)
  
  ## Features
 **Types**
